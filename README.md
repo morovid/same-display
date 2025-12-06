@@ -1,4 +1,4 @@
-# SameDisplay
+# SameDisplay 🖥️
 
 A macOS menu bar application that automatically moves newly opened windows to the display where your mouse cursor is located.
 
