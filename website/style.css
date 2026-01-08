@@ -121,7 +121,7 @@ h2 {
 }
 
 .btn {
-    display: inline-block;
+    display: inline-flex;
     background: #000;
     color: #fff;
     padding: 10px 20px;
@@ -129,6 +129,8 @@ h2 {
     font-weight: bold;
     border: var(--border-width) solid #000;
     transition: all 0.2s;
+    align-items: center;
+    justify-content: center;
 }
 
 .btn:hover {
@@ -186,4 +188,6 @@ a {
         font-size: 2rem;
     }
 }
+
+
 
